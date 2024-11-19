@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PruebaDDI_Examen</string>
+    <string name="hola1">hola1</string>
+    <string name="hola2">hola2</string>
+    <string name="hola3">hola3</string>
+    <string name="hola4">hola4</string>
+    <string name="hola5">hola5</string>
+    <string name="hola6">hola6\n</string>
+</resources>
