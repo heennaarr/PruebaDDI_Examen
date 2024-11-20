@@ -6,4 +6,13 @@
     <string name="hola4">hola4</string>
     <string name="hola5">hola5</string>
     <string name="hola6">hola6\n</string>
+    <string name="textSearch">Introduce texto</string>
+    <string name="searchbar_hint">Introduce texto</string>
+    <string name="text1">Lafuma Mobilier</string>
+    <string name="text2">Tumbona MAXI TRANSAT LaFuma LFM5170 CB Canyon</string>
+    <string name="price">79.90</string>
+    <string name="secure">Pago 100% seguro</string>
+    <string name="opinions">1 opiniones</string>
+    <string name="a_adir_a_la_cesta">Añadir a la cesta</string>
+    <string name="Stock">En stock</string>
 </resources>
