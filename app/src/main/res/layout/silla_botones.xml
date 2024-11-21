@@ -198,13 +198,25 @@
         >
 
     </TextView>
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/lock"
+            android:src="@drawable/check"
+            app:layout_constraintTop_toBottomOf="@id/price"
+            app:layout_constraintEnd_toStartOf="@id/stock"
+            android:id="@+id/check"
+            >
 
+        </ImageView>
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintTop_toBottomOf="@id/price"
         app:layout_constraintLeft_toRightOf="@id/secure"
+        app:layout_constraintEnd_toEndOf="parent"
         android:text="@string/Stock"
+
         android:id="@+id/stock"
         >
 
